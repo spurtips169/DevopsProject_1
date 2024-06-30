@@ -31,6 +31,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+<<<<<<< HEAD
 
+=======
+  <h1> Happy Learning </h1>
+>>>>>>> 92e1b12 ( new update)
   
 </form>
